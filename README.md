@@ -1,3 +1,6 @@
+<style>*{
+  background-color:white;
+}</style>
 <h1 align="left">Hi 👋, I'm Brijesh Bhardwaj</h1>
 <h3 align="left">A passionate Mern-Stack developer.</h3>
 
