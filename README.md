@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React js,locomotive js**
-
 - 📫 How to reach me **rbrijesh480@gmail.com**
 
 - ⚡ Fun fact **i am a video editor too.**
