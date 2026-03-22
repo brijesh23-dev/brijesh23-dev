@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React js,locomotive js**
 
-- 💬 Ask me about **gsap,locomotive,react js**
-
 - 📫 How to reach me **rbrijesh480@gmail.com**
 
 - ⚡ Fun fact **i am a video editor too.**
